@@ -1,4 +1,4 @@
-# Portfolio
+# Mental Health in Tech Analysis
 
 This is and analysis of the Mental health in tech data on Kaggle
 
